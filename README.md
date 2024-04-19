@@ -8,10 +8,10 @@ Bipedal Inverse Kinematics for Unity Humanoid Rigs.
 To use the component, simply add BipedalKinematics to your character model and enable ik in the animator controller.
 
 # Demo
-![demo](/Documentation/vid0.mp4)
+![demo](/Documentation/demo0.gif)
 
 # Install
-Download the [latest release](https://github.com/SerhatDikel/Unity-BodyMorph/releases) as a unitypackage, or clone this repository.
+Download the [latest release](https://github.com/SerhatDikel/Unity-Bipedal-Kinematics/releases) as a unitypackage, or clone this repository.
 
 # Author
 Serhat Dikel
